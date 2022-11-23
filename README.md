@@ -16,6 +16,6 @@ Projeto construído no curso de HTML e CSS da Alura
 
 viniiirj@gmail.com
 
-![preview](./.github/home.png)
-![preview](./.github/prod.png)
-![preview](./.github/cont.png)
+![preview](./home.png)
+![preview](./prod.png)
+![preview](./cont.png)

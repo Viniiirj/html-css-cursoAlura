@@ -4,7 +4,7 @@
 
 Projeto construído no curso de HTML e CSS da Alura
 
-🔗[Clique aqui para acessar](https://Viniiirj.github.io/html-css-alura/)
+🔗[Clique aqui para acessar](https://viniiirj.github.io/html-css-cursoAlura/)
 
 ## ⚙️ Tecnologias
 

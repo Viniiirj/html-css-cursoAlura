@@ -1,6 +1,4 @@
-# NLW eSport 
-
-#![preview](./.github/preview.png)
+# Alura
 
 > Curso HTML e CSS
 
@@ -17,3 +15,7 @@ Projeto construído no curso de HTML e CSS da Alura
 ## 💬 Contato
 
 viniiirj@gmail.com
+
+![preview](./.github/home.png)
+![preview](./.github/prod.png)
+![preview](./.github/cont.png)
